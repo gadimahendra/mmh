@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 // Make sure this package is in pubspec.yaml
 
-class Frame extends StatefulWidget {
-  const Frame({super.key});
+class Frame5 extends StatefulWidget {
+  const Frame5({super.key});
 
   @override
-  FrameState createState() => FrameState();
+  Frame5State createState() => Frame5State();
 }
 
-class FrameState extends State<Frame> {
+class Frame5State extends State<Frame5> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

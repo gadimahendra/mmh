@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-class Frame extends StatefulWidget {
-  const Frame({super.key});
+class Frame8 extends StatefulWidget {
+  const Frame8({super.key});
   @override
-  FrameState createState() => FrameState();
+  Frame8State createState() => Frame8State();
 }
-class FrameState extends State<Frame> {
+class Frame8State extends State<Frame8> {
   String textField1 = '';
   @override
   Widget build(BuildContext context) {

@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:mobkit_dashed_border/mobkit_dashed_border.dart';
 
-class Dic3 extends StatefulWidget {
-  const Dic3({super.key});
+class Div3 extends StatefulWidget {
+  const Div3({super.key});
 
   @override
-  Dic3State createState() => Dic3State();
+  Div3State createState() => Div3State();
 }
 
-class Dic3State extends State<Dic3> {
+class Div3State extends State<Div3> {
   String textField1 = '';
   String textField2 = '';
   String textField3 = '';

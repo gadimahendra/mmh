@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-class Manufacture extends StatefulWidget {
-  const Manufacture({super.key});
+class Manufacture1 extends StatefulWidget {
+  const Manufacture1({super.key});
   @override
-  ManufactureState createState() => ManufactureState();
+  Manufacture1State createState() => Manufacture1State();
 }
-class ManufactureState extends State<Manufacture> {
+class Manufacture1State extends State<Manufacture1> {
   String textField1 = '';
   @override
   Widget build(BuildContext context) {
@@ -131,7 +131,7 @@ class ManufactureState extends State<Manufacture> {
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   Text(
-                                    'Manufacture Management',
+                                    'Manufacture1 Management',
                                     style: TextStyle(
                                       color: Color(0xFF111827),
                                       fontSize: 20,

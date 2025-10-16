@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Dic1 extends StatefulWidget {
-  const Dic1({super.key});
+class Div1 extends StatefulWidget {
+  const Div1({super.key});
 
   @override
-  Dic1State createState() => Dic1State();
+  Div1State createState() => Div1State();
 }
 
-class Dic1State extends State<Dic1> {
+class Div1State extends State<Div1> {
   String textField1 = '';
   String textField2 = '';
   String textField3 = '';

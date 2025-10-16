@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Return extends StatefulWidget {
-  const Return({super.key});
+class Return1 extends StatefulWidget {
+  const Return1({super.key});
 
   @override
-  ReturnState createState() => ReturnState();
+  Return1State createState() => Return1State();
 }
 
-class ReturnState extends State<Return> {
+class Return1State extends State<Return1> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

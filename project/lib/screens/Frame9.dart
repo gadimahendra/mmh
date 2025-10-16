@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-class Frame extends StatefulWidget {
-	const Frame({super.key});
+class Frame9 extends StatefulWidget {
+	const Frame9({super.key});
 	@override
-		FrameState createState() => FrameState();
+		Frame9State createState() => Frame9State();
 	}
-class FrameState extends State<Frame> {
+class Frame9State extends State<Frame9> {
 	@override
 	Widget build(BuildContext context) {
 		return Scaffold(
